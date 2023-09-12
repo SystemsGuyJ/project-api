@@ -25,8 +25,8 @@ public class Details {
         this.current_day = dayOfWeek();
         this.utc_time = formatUtcTime();
         this.track = track;
-        this.github_file_url = "";
-        this.github_repo_url = "";
+        this.github_file_url = "https://github.com/SystemsGuyJ/project-api/blob/558616da3fdcc5a4b0ea64c1235d82c58502d139/src/main/java/com/endpoint/api/APIController.java";
+        this.github_repo_url = "https://github.com/SystemsGuyJ/project-api.git";
         this.status_code = 200;
     }
 
