@@ -1,2 +1,3 @@
 com\endpoint\api\ApiApplication.class
 com\endpoint\api\APIController.class
+com\endpoint\api\Details.class
